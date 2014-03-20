@@ -3,11 +3,11 @@ layout: page
 title: The Basics
 ---
 
-# The Basics
+# พื้นฐาน
 
-## Comparison operators
+## โอปอเรเตอร์ในการเปรียบเทียบ
 
-Comparison operators are an often overlooked aspect of PHP, which can lead to many unexpected outcomes. One such
+โอปอเรเตอร์ในการเปรียบเทียบค่าใน PHP เป็นสิ่งที่ถูกมองข้ามอยู่บ่อยๆ, which can lead to many unexpected outcomes. One such
 problem stems from strict comparisons (the comparison of booleans as integers).
 
 {% highlight php %}
